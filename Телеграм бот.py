@@ -1,4 +1,3 @@
-
 import(telebot)
 bot=telebot.Telebot(5317785622:AAEBeSL514cNnvSW-Q_JZ1YPMfpBHbdBzWk)
 @bot.messege_handler(commands=["start"])
